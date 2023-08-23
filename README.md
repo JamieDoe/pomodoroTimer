@@ -1,2 +1,1 @@
-# pomodoroTimer
-Pomodoro Timer Built With React.
+# Pomodoro Timer
